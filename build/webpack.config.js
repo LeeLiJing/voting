@@ -1,0 +1,1 @@
+const nodeExternals = require('')
